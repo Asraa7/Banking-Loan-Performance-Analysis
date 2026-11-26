@@ -5,14 +5,8 @@ I developed an Excel dashboard analyzing 38,576 loans using Pivot Tables, Slicer
 
 ## Dashboard
 
-### 1. KPI Cards
-![KPI Cards](screenshots/kpi-cards.png)
-
-### 2. Slicers
-![Slicers](screenshots/slicers.png)
-
-### 3. Charts
+### 1. Charts
 ![Charts](screenshots/charts.png)
 
-### 4. Complete Dashboard
+### 2. Complete Dashboard
 ![Dashboard Overview](screenshots/dashboard-overview.png)
